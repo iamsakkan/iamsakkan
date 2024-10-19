@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @iamsakkan
-- 👀 I’m interested in videogames developing, web designing and any other sort of programming.
-- 🌱 I’m currently learning C# and html
-- 💞️ I’m looking to collaborate on web designing and game developing.
 - 📫 You can contact me on my mail: anel.sakanovic77@gmail.com or my discord: sakkan#3052
 
 <!---
